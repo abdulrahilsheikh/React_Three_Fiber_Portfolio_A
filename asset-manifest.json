@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Three_Fiber_Portfolio_A/static/css/main.b427e9c4.css",
+    "main.js": "/React_Three_Fiber_Portfolio_A/static/js/main.35029e67.js",
+    "index.html": "/React_Three_Fiber_Portfolio_A/index.html",
+    "main.b427e9c4.css.map": "/React_Three_Fiber_Portfolio_A/static/css/main.b427e9c4.css.map",
+    "main.35029e67.js.map": "/React_Three_Fiber_Portfolio_A/static/js/main.35029e67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b427e9c4.css",
+    "static/js/main.35029e67.js"
+  ]
+}

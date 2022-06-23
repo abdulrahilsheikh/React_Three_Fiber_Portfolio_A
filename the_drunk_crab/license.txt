@@ -1,0 +1,11 @@
+Model Information:
+* title:	The drunk crab
+* source:	https://sketchfab.com/3d-models/the-drunk-crab-529c6baef4b7405491cd9503da7d3a1e
+* author:	makcutka250 (https://sketchfab.com/makcutka250)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The drunk crab" (https://sketchfab.com/3d-models/the-drunk-crab-529c6baef4b7405491cd9503da7d3a1e) by makcutka250 (https://sketchfab.com/makcutka250) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
